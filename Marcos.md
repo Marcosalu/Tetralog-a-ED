@@ -90,7 +90,7 @@ Wagner concentró progresivamente lo **luminoso, heroico y majestuoso** en algo 
  
     ## IMÁGENES PERSONAJES
 
-    ![Wotan]([https://musical-perales.es/wp-content/uploads/2022/01/tuba-wagneriana-sib-fa-hans-hoyer-4826-lacada-hh4826g-1-0gb-174107.png](https://www.meisterdrucke.es/kunstwerke/1260px/Arthur_Rackham_-_Dwarf_and_Wotan_from_Wagners_Ring_of_the_Niebelungen_1911_%28wc_pen_and_ink%29_-_%28MeisterDrucke-556222%29.jpg))
-    ![Siegfried]([https://musical-perales.es/wp-content/uploads/2022/01/tuba-wagneriana-sib-fa-hans-hoyer-4826-lacada-hh4826g-1-0gb-174107.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Siegfried.jpg/250px-Siegfried.jpg))
+    ![Wotan](https://www.meisterdrucke.es/kunstwerke/1260px/Arthur_Rackham_-_Dwarf_and_Wotan_from_Wagners_Ring_of_the_Niebelungen_1911_%28wc_pen_and_ink%29_-_%28MeisterDrucke-556222%29.jpg)
+    ![Siegfried](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Siegfried.jpg/250px-Siegfried.jpg)
 
 
