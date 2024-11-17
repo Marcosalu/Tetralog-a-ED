@@ -44,7 +44,10 @@ Como ya hemos mencionado, Wagner utilizó numerosos instrumentos poco comunes en
 
    ## IMÁGENES INSTRUMENTOS
   
-  ![Texto alternativo]([https://via.placeholder.com/150 "Prueba de imagen"](https://musical-perales.es/wp-content/uploads/2022/01/tuba-wagneriana-sib-fa-hans-hoyer-4826-lacada-hh4826g-1-0gb-174107.png))
+  ![Tuba Wagnerianas](https://musical-perales.es/wp-content/uploads/2022/01/tuba-wagneriana-sib-fa-hans-hoyer-4826-lacada-hh4826g-1-0gb-174107.png)
+  ![Fagotes](https://m.media-amazon.com/images/I/51QN+Y9NxWL._AC_UF894,1000_QL80_.jpg)
+  ![Saxonfones](https://i.multisononline.com/blog/wp-content/uploads/2021/02/saxo-alto.jpg)
+
 
 Desarrollo temático: Observar cómo los temas musicales se transforman y evolucionan a lo largo de
 las cuatro óperas. ¿Cómo reflejan el desarrollo de los personajes y la trama?
