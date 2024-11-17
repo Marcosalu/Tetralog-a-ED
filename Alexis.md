@@ -2,7 +2,7 @@
 
 En la Tetralogía del Anillo de Richard Wagner supuso una tranformación radical de la ópera. Al desarrollar esta obra monumental, Wagner comenzó a desarrollar la "obra de arte total" (Gesamtkunstwerk), una idea que desbordaba las convenciones de la ópera clásica y la conectaba con un concepto más amplio de integración artística.
 
-### Creador de Gesamtkunstwerk. Richard Wagner
+### Creador de Gesamtkunstwerk. Richard Wagner.
 ![Richard Wagner](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wagner_Luzern_1868.jpg/320px-Wagner_Luzern_1868.jpg)
 
 Wagner también desarrolló un enfoque radicalmente diferente: la música, el libreto, la escenografía, la danza y las artes visuales debían estar tan entrelazadas que solo a través de su unidad se alcanzaría la verdadera expresión artística.
