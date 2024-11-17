@@ -44,7 +44,7 @@ Como ya hemos mencionado, Wagner utilizó numerosos instrumentos poco comunes en
 
    ## IMÁGENES INSTRUMENTOS
   
-  ![Texto alternativo]([URL-de-la-imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTuba_Wagner&psig=AOvVaw2bbaD8tL-kx1qLeHreF-oS&ust=1731915519011000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCn95vu4okDFQAAAAAdAAAAABAE) "Tuba wagneriana")
+  ![Texto alternativo](https://via.placeholder.com/150 "Prueba de imagen")
 
 Desarrollo temático: Observar cómo los temas musicales se transforman y evolucionan a lo largo de
 las cuatro óperas. ¿Cómo reflejan el desarrollo de los personajes y la trama?
