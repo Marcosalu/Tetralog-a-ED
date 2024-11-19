@@ -2,6 +2,8 @@
 
 Alberich tiene paralelos con el enano Andvari de las Eddas, quien posee un anillo mágico y un tesoro maldecido. En la tetralogía, Alberich renuncia al amor para forjar el anillo mágico con el oro que robó a las hijas del Rin, lo que conlleva a la tragedia central de la tetralogía.
 
+
+
 ---
 
 # Wotan y los dioses
